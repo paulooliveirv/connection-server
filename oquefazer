@@ -1,0 +1,13 @@
+criar o servidor socket server
+documentaçao do node
+quando alguem conecta eu ganho um cliente socket
+se quiser falar chama o write no cliente socket
+metodo on 
+c.socket
+o que reecebe
+socket end
+on.data
+
+ler um arquivo do disco 
+file system
+
